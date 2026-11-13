@@ -1,4 +1,4 @@
-# 🌐 AI Daily News Intelligence Agent
+# AI Daily News Intelligence Agent
 
 An autonomous AI news intelligence agent and scheduled briefing system built with **Google Antigravity**, **Python**, and **Discord Webhooks**.
 
@@ -6,7 +6,7 @@ Every morning, the agent searches the live web for the latest real-time developm
 
 ---
 
-## 📑 News Coverage Areas
+## News Coverage Areas
 
 1. 🔒 **Cybersecurity**: Zero-day vulnerabilities, active exploits, CISA KEV advisories, threat actor campaigns, and enterprise breach intelligence.
 2. 📈 **Stock Market & Finance**: Real-time market snapshot (S&P 500, Dow Jones, NASDAQ), tech & semiconductor movers, commodities, Treasury yields, and macro commentary.
