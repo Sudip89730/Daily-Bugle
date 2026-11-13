@@ -2,6 +2,9 @@
 .env
 .env.local
 
+# Internal logs and history
+PROJECT_HISTORY.md
+
 # Python
 __pycache__/
 *.py[cod]
